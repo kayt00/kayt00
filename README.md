@@ -1,5 +1,6 @@
 # About Me...
-- 👋  Hi, I’m Katie Taylor!
+
+👋  Hi, I’m Katie Taylor!
 - :mortar_board:  I recetly graduated from Old Dominion University with my Bachelor's Degree in CS.
 - :kissing_cat:  I’m interested in crptography and kittens.
 - :pushpin:  I’m looking for any job opportunities or entry level positions available in the CS industry.
